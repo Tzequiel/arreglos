@@ -10,3 +10,6 @@ estudiantes =[
     
 ]
 print(estudiantes[1]["nombre"])
+
+# git fetch origin
+# git pull origin main
